@@ -1,1 +1,1 @@
-# QC-Independent-Study
+# Quantum Computing Independent Study
